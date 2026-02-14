@@ -34,25 +34,25 @@ AfterCleanedData/
 
 # 🗺️ Data Architecture
 
-![Data Architecture](document/data_architecture.png)
+![Data Architecture](data_architecture.png)
 
 ---
 
 # 🔄 Data Flow
 
-![Data Flow](documents/data_flow.png)
+![Data Flow](data_flow.png)
 
 ---
 
 # 🔗 Data Integration
 
-![Data Integration](documents/data_integration.png)
+![Data Integration](data_integration.png)
 
 ---
 
 # ⭐ Data Model (Star Schema)
 
-![Data Model](documents/data_model.png)
+![Data Model](data_model.png)
 
 The Gold layer follows a **Star Schema** design:
 
